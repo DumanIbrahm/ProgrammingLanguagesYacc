@@ -1,0 +1,142 @@
+--Buse Çoban
+--İbrahim Duman
+
+-* 
+All rights
+to this language
+are reserved by us
+the creators of Hehe :
+BÇ 
+İD
+*-
+
+-- Varible declarations
+x = 10;
+
+a=1;
+b=2;
+c=3;
+d=4;
+e=5;
+f=6;
+g=7;
+h=8;
+i=9;
+j=10;
+
+
+-- Loops
+
+WHILE(x){
+PRINT(x);
+x=x-1;
+}
+LPW
+
+
+-- Conditional Statements
+
+k=5;
+IF(k>4){
+    PRINT(e);
+    PRINT(f);
+    PRINT(g);
+    PRINT(h);
+    PRINT(i);
+    PRINT(j);
+}ELSE{
+    PRINT(a);
+    PRINT(b);
+    PRINT(c);
+}
+
+
+--inner Operations
+m=5;
+IF(m>4){
+    WHILE(m){
+    PRINT(m);
+    m=m-1;
+}
+LPW
+}ELSE{
+    PRINT(m);
+}
+
+
+m=2;
+IF(m>4){
+    WHILE(m){
+    PRINT(m);
+    m=m-1;
+}
+LPW
+}ELSE{
+    PRINT(m);
+}
+
+--comarasion
+a=5;
+b=5;
+c=a*b;
+
+e=1;
+n=0;
+
+IF(a==b){
+PRINT(e);
+}
+IF(a==c){
+PRINT(e);}
+ELSE{
+PRINT(n);
+}
+
+
+x=20;
+y=10;
+z=20;
+
+IF(x==y){
+PRINT(x);
+}ELSE{
+IF(x!=z){
+    PRINT(z); 
+}ELSE{
+    PRINT(x);
+}
+
+}
+
+
+x=20;
+y=10;
+z=5;
+
+IF(x==y){
+PRINT(x*y);
+}ELSE{
+IF(x!=z){
+    PRINT(x/z); 
+}ELSE{
+    PRINT(x*z);
+}
+
+}
+
+
+
+
+
+
+
+-- Logical Operations
+
+
+
+-- Function 
+ FUNCTION method( a, b){
+    RET a + b;
+}
+
+
